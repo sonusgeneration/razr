@@ -1,5 +1,5 @@
 {
-    "name": "pagekit/razr",
+    "name": "sonusgeneration/razr",
     "description": "Razr - The powerful PHP template engine",
     "keywords": ["templating", "pagekit"],
     "homepage": "http://pagekit.com",
@@ -17,11 +17,5 @@
         "psr-4": {
             "Razr\\": "src"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.9-dev"
-        }
-    },
-    "minimum-stability": "dev"
+    }
 }
